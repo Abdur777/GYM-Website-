@@ -10,7 +10,7 @@ body{
 }
 
 .navbar-nav{
-    margin-left: 30%;
+    margin-left: 49%;
 }
 .nav-item{
     font-weight: bold;
@@ -217,7 +217,7 @@ h4{
     padding: 10%;
 }
 
-.reach-us{
+#reach-us{
     text-align: center;
     color: rgba(255, 217, 0, 0.787);
     padding-top: 40px;
